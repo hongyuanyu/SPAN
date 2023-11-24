@@ -193,8 +193,7 @@ class SPAB(nn.Module):
 @ARCH_REGISTRY.register()
 class SPAN(nn.Module):
     """
-    Residual Local Feature Network (RLFN)
-    Model definition of RLFN in NTIRE 2022 Efficient SR Challenge
+    Swift Parameter-free Attention Network for Efficient Super-Resolution
     """
 
     def __init__(self,
