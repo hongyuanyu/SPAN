@@ -1,6 +1,6 @@
+# SPAN for Efficient Image Super-Resolution
 
 <div align="center">
-# SPAN for Efficient Image Super-Resolution
 
 <h2><a href="https://arxiv.org/abs/2403.06977">Swift Parameter-free Attention Network for Efficient Super-Resolution</a></h2>
 
