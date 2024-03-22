@@ -1,10 +1,10 @@
-# SPAN for Efficient Image Super-Resolution
 
 <div align="center">
+# SPAN for Efficient Image Super-Resolution
 
 <h2><a href="https://arxiv.org/abs/2403.06977">Swift Parameter-free Attention Network for Efficient Super-Resolution</a></h2>
 
-[Cheng Wan](https://jornywan.github.io), [Hongyuan Yu](https://hongyuanyu.github.io/), [Zhiqi Li](https://zhiqili-cg.github.io/), [Yihang Chen], [Yajun Zou], [Yuqing Liu], [Xuanwu Yin] and Kunlong Zuo
+[Cheng Wan](https://jornywan.github.io), [Hongyuan Yu](https://hongyuanyu.github.io/), [Zhiqi Li](https://zhiqili-cg.github.io/), Yihang Chen, Yajun Zou, Yuqing Liu, Xuanwu Yin and Kunlong Zuo
 
 [![Paper](https://img.shields.io/badge/cs.CV-2403.06977-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2311.12770)
 
