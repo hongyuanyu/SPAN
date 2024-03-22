@@ -55,7 +55,20 @@ python setup.py develop --no_cuda_ext
 </div>
 
 
+## Cite
 
+If our work is useful to you, please use the following BibTeX for citation.
+
+```latex
+@misc{wan2023swift,
+      title={Swift Parameter-free Attention Network for Efficient Super-Resolution}, 
+      author={Cheng Wan and Hongyuan Yu and Zhiqi Li and Yihang Chen and Yajun Zou and Yuqing Liu and Xuanwu Yin and Kunlong Zuo},
+      year={2023},
+      eprint={2311.12770},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
 
 
 
