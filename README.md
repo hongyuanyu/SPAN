@@ -18,7 +18,7 @@
 ## 🚀 Updates
 - \[2024.04.09\] Our work has been accepted to CVPR 2024 Workshop!
 - \[2024.03.21\] 🏆 SPAN won the championship in CVPR NTIRE's Efficient Super-Resolution Challenge(ESR) -> [Challenge Report](https://arxiv.org/abs/2404.10343)
-- \[2023.03.10\] Release checkpoints for our different pretrained models -> [[Google Drive](https://drive.google.com/file/d/1iYUA2TzKuxI0vzmA-UXr_nB43XgPOXUg/view?usp=sharing)].
+- \[2023.03.10\] Release checkpoints for our different pretrained models -> [Google Drive](https://drive.google.com/file/d/1iYUA2TzKuxI0vzmA-UXr_nB43XgPOXUg/view?usp=sharing).
 - \[2023.11.23\] Upload ✅ SPAN codes here.
   
 ## 📖 Introduction:
