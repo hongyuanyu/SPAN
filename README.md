@@ -16,15 +16,16 @@
 </div>
 
 ## 🚀 Updates
-- \[2024.04.09\] Our work has been accepted to CVPR 2024 Workshop!
-- \[2024.03.21\] 🏆 SPAN won the championship in CVPR NTIRE's Efficient Super-Resolution Challenge(ESR) -> [Challenge Report](https://arxiv.org/abs/2404.10343)
-- \[2023.03.10\] Release checkpoints for our different pretrained models -> [Google Drive](https://drive.google.com/file/d/1iYUA2TzKuxI0vzmA-UXr_nB43XgPOXUg/view?usp=sharing).
+- \[2024.06.11\] 🎉 SPAN is selected for an Oral Presentation at CVPR 2024, NTIRE Workshop!
+- \[2024.04.09\] 🎉 Our [paper](https://arxiv.org/abs/2311.12770) is accepted to CVPR 2024 Workshop!
+- \[2024.03.21\] 🏆 SPAN won the **1st place** in CVPR 2024 NTIRE's Efficient Super-Resolution Challenge(ESR) -> [Challenge Report](https://arxiv.org/abs/2404.10343)
+- \[2023.03.10\] Release ✅ checkpoints for our different pretrained models -> [Google Drive](https://drive.google.com/file/d/1iYUA2TzKuxI0vzmA-UXr_nB43XgPOXUg/view?usp=sharing).
 - \[2023.11.23\] Upload ✅ SPAN codes here.
   
 ## 📖 Introduction:
 The official pytorch implementation of the paper **[Swift Parameter-free Attention Network for Efficient Super-Resolution](https://arxiv.org/pdf/2311.12770.pdf)**
 
-Single Image Super-Resolution (SISR) is a crucial task in low-level computer vision, aiming to reconstruct high-resolution images from low-resolution counterparts. Conventional attention mechanisms have significantly improved SISR performance but often result in complex network structures and large number of parameters, leading to slow inference speed and large model size. To address this issue, we propose the Swift Parameter-free Attention Network (SPAN), a highly efficient SISR model that balances parameter count, inference speed, and image quality. SPAN employs a novel parameter-free attention mechanism, which leverages symmetric activation functions and residual connections to enhance high-contribution information and suppress redundant information. Our theoretical analysis demonstrates the effectiveness of this design in achieving the attention mechanism's purpose. We evaluate SPAN on multiple benchmarks, showing that it outperforms existing efficient super-resolution models in terms of both image quality and inference speed, achieving a significant quality-speed trade-off. This makes SPAN highly suitable for real-world applications, particularly in resource-constrained scenarios. Notably, our model attains the best PSNR of 27.09 dB, and the test runtime of our team is reduced by 7.08ms in the NTIRE 2023 efficient super-resolution challenge.
+>Single Image Super-Resolution (SISR) is a crucial task in low-level computer vision, aiming to reconstruct high-resolution images from low-resolution counterparts. Conventional attention mechanisms have significantly improved SISR performance but often result in complex network structures and large number of parameters, leading to slow inference speed and large model size. To address this issue, we propose the Swift Parameter-free Attention Network (SPAN), a highly efficient SISR model that balances parameter count, inference speed, and image quality. SPAN employs a novel parameter-free attention mechanism, which leverages symmetric activation functions and residual connections to enhance high-contribution information and suppress redundant information. Our theoretical analysis demonstrates the effectiveness of this design in achieving the attention mechanism's purpose. We evaluate SPAN on multiple benchmarks, showing that it outperforms existing efficient super-resolution models in terms of both image quality and inference speed, achieving a significant quality-speed trade-off. This makes SPAN highly suitable for real-world applications, particularly in resource-constrained scenarios. Notably, our model attains the best PSNR of 27.09 dB, and the test runtime of our team is reduced by 7.08ms in the NTIRE 2023 efficient super-resolution challenge.
 
 <div align="center">
   <img src="assets/model.png" width="800px" />
