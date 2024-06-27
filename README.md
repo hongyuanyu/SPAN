@@ -68,13 +68,12 @@ python setup.py develop --no_cuda_ext
 If our work is useful to you, please use the following BibTeX for citation.
 
 ```latex
-@misc{wan2023swift,
-      title={Swift Parameter-free Attention Network for Efficient Super-Resolution}, 
-      author={Cheng Wan and Hongyuan Yu and Zhiqi Li and Yihang Chen and Yajun Zou and Yuqing Liu and Xuanwu Yin and Kunlong Zuo},
-      year={2023},
-      eprint={2311.12770},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@inproceedings{wan2024swift,
+  title={Swift Parameter-free Attention Network for Efficient Super-Resolution},
+  author={Wan, Cheng and Yu, Hongyuan and Li, Zhiqi and Chen, Yihang and Zou, Yajun and Liu, Yuqing and Yin, Xuanwu and Zuo, Kunlong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6246--6256},
+  year={2024}
 }
 ```
 
