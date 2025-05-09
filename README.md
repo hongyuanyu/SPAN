@@ -16,11 +16,12 @@
 </div>
 
 ## 🚀 Updates
+- \[2025.03.27\] 😃 Our lighter version SPAN-F won the **2nd place** in CVPR 2025 NTIRE's ESR Challenge, glad to see the top few teams were all inspired by SPAN. -> [Report Paper](https://arxiv.org/pdf/2504.10686)
 - \[2024.06.11\] 🎉 SPAN is selected for an Oral Presentation at CVPR 2024, NTIRE Workshop!
-- \[2024.04.09\] 🎉 Our [paper](https://arxiv.org/abs/2311.12770) is accepted to CVPR 2024 Workshop!
-- \[2024.03.21\] 🏆 SPAN won the **1st place** in CVPR 2024 NTIRE's Efficient Super-Resolution Challenge(ESR) -> [Challenge Report](https://arxiv.org/abs/2404.10343)
-- \[2023.03.10\] Release ✅ checkpoints for our different pretrained models -> [Google Drive](https://drive.google.com/file/d/1iYUA2TzKuxI0vzmA-UXr_nB43XgPOXUg/view?usp=sharing).
-- \[2023.11.23\] Upload ✅ SPAN codes here.
+- \[2024.04.09\] 🎉 [SPAN](https://arxiv.org/abs/2311.12770) is accepted to CVPR 2024 Workshop!
+- \[2024.03.21\] 🏆 SPAN won the **1st place** in CVPR 2024 NTIRE's Efficient Super-Resolution Challenge(ESR) -> [Report Paper](https://arxiv.org/abs/2404.10343)
+- \[2023.03.10\] ✅ Release checkpoints for our different pretrained models -> [Google Drive](https://drive.google.com/file/d/1iYUA2TzKuxI0vzmA-UXr_nB43XgPOXUg/view?usp=sharing).
+- \[2023.11.23\] ✅ Upload SPAN codes here.
   
 ## 📖 Introduction:
 The official pytorch implementation of the paper **[Swift Parameter-free Attention Network for Efficient Super-Resolution](https://arxiv.org/pdf/2311.12770.pdf)**
