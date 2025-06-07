@@ -16,6 +16,7 @@
 </div>
 
 ## 🚀 Updates
+- \[2025.06.06\] 🎉 SPAN-F is selected for an Oral Presentation at CVPR 2025, NTIRE Workshop!
 - \[2025.03.27\] 😃 Our lighter version SPAN-F won the **2nd place** in CVPR 2025 NTIRE's ESR Challenge, glad to see the top few teams were all inspired by SPAN. -> [Report Paper](https://arxiv.org/pdf/2504.10686)
 - \[2024.06.11\] 🎉 SPAN is selected for an Oral Presentation at CVPR 2024, NTIRE Workshop!
 - \[2024.04.09\] 🎉 [SPAN](https://arxiv.org/abs/2311.12770) is accepted to CVPR 2024 Workshop!
