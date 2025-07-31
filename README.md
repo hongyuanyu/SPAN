@@ -1,4 +1,4 @@
-# SPAN - ESR
+# SPAN - ESR (CVPRW NTIRE Winner Award @2024, Runner-up @2025)
 
 <div align="center">
 
